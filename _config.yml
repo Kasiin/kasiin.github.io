@@ -12,7 +12,7 @@ github_repo: "https://github.com/kasiin/kasiin.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "无人不冤，有情皆孽。"
-sidebar-avatar: /img/about-kasiin.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-k.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
