@@ -56,7 +56,7 @@
 ```
 # Site settings
 title: Kasiin Blog                    # 你的博客网站标题
-SEOTitle: 开心的博客 | BY Blog		# SEO 标题
+SEOTitle: 开心的博客 | Kasiin Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
