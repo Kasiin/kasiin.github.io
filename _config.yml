@@ -2,7 +2,7 @@
 title: Kasiin Blog
 SEOTitle: 开心的博客 | Kasiin Blog
 header-img: img/home.jpg
-email: skx747576178@gmail.com
+email: kasiin@outlook.com
 description: "Hola,Mundo."
 keyword: "Kasiin, Kasiin Blog, 开心的博客, JS, Python, JavaScript, HtmL"
 url: "http://kasiin.github.io"          # your host, for absolute URL
@@ -11,7 +11,7 @@ github_repo: "https://github.com/kasiin/kasiin.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "无人不冤，有情皆孽。"
+sidebar-about-description: "不富不帅但很高"
 sidebar-avatar: /img/about-k.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -22,7 +22,6 @@ weibo_username:     u/2700843420
 zhihu_username:     skx747576178
 github_username:    kasiin
 #facebook_username:  
-jianshu_username:   deebc3b5c1a6
 #twitter_username:   
 
 
@@ -98,10 +97,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "简书·Kasiin",
-        href: "https://www.jianshu.com/u/deebc3b5c1a6"
-    },{
+   {
         title: "W3school",
         href: "http://www.w3school.com.cn/"
     },{
