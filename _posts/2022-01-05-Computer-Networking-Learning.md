@@ -1,6 +1,6 @@
 ---
 layout:     post   		# 使用的布局（不需要改）
-title:      计算机网路学习资料汇总 		# 标题 
+title:      计算机网络学习资料汇总 		# 标题 
 subtitle:   Computer Networking Learning #副标题
 date:       2022-01-05 			# 时间
 author:     Kasiin 				# 作者
@@ -10,7 +10,7 @@ tags:								#标签
     - 计算机网络
 ---
 
-# 计算机网路学习资料汇总
+# 计算机网络学习资料汇总
 
 ## 书籍推荐
 首先是基础书籍推荐:
