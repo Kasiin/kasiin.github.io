@@ -11,7 +11,7 @@ tags:								#标签
 ---
 # Flipper Zero Multiboard
 
->注意：所有模块均在第三方固件中测试，推荐使用unleashed固件，链接：https://github.com/DarkFlippers/unleashed-firmware
+>注意：所有模块均在第三方固件中测试，推荐使用unleashed固件，链接：[https://github.com/DarkFlippers/unleashed-firmware]
 
 ## Author: [Dr.B0rk](https://github.com/DrB0rk/Flipper-Zero-Boards)（作者：[mDr.B0rk](https://github.com/DrB0rk/Flipper-Zero-Boards)）
 
@@ -29,7 +29,7 @@ Multiboard
 
 ### 方法1
 
-使用Dr.B0rk仓库中的multiboard flasher更新：https://github.com/DrB0rk/Flipper-Zero-Boards/tree/main/Multiboard%20flasher
+使用Dr.B0rk仓库中的multiboard flasher更新：[https://github.com/DrB0rk/Flipper-Zero-Boards/tree/main/Multiboard%20flasher]
 
 操作方法：
 1. 将Dr.B0rk的仓库完整下载到本地
@@ -70,7 +70,7 @@ Multiboard
 
 
 ### NRF24部分
-参考NRF24模块说明：https://kasiin.top/2023/01/08/Flipper_Zero_NRF24/
+参考NRF24模块说明：[https://kasiin.top/2023/01/08/Flipper_Zero_NRF24/]
 
 
 
