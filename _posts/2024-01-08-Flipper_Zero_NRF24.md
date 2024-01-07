@@ -11,7 +11,7 @@ tags:								#标签
 ---
 # Flipper Zero NRF24
 
->注意：所有模块均在第三方固件中测试，推荐使用unleashed固件，链接：https://github.com/DarkFlippers/unleashed-firmware
+>注意：所有模块均在第三方固件中测试，推荐使用unleashed固件，链接：[https://github.com/DarkFlippers/unleashed-firmware]
 
 ## Author: [mothball187](https://github.com/mothball187/flipperzero-nrf24/tree/main/mousejacker)（作者：[mothball187](https://github.com/mothball187/flipperzero-nrf24/tree/main/mousejacker)）
 
