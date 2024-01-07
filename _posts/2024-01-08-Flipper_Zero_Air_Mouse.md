@@ -11,7 +11,7 @@ tags:								#标签
 ---
 # Flipper Zero Air Mouse
 
->注意：所有模块均在第三方固件中测试，推荐使用unleashed固件，链接：https://github.com/DarkFlippers/unleashed-firmware
+>注意：所有模块均在第三方固件中测试，推荐使用unleashed固件，链接：[https://github.com/DarkFlippers/unleashed-firmware]
 
 ## Author: [ginkage](https://github.com/ginkage/FlippAirMouse)（作者：[ginkage](https://github.com/ginkage/FlippAirMouse)）
 
