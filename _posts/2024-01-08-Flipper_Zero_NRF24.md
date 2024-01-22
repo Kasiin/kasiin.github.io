@@ -31,6 +31,12 @@ tags:								#标签
 ## Demo (YouTube)
 [![YouTube](https://img.youtube.com/vi/C5hbyAjuU4k/0.jpg)](https://www.youtube.com/watch?v=C5hbyAjuU4k)
 
+## Mouse Jack affected devices
+just for reference  
+
+https://www.bastille.net/research/vulnerabilities/mousejack/affected-devices
+
+
 ## Warning
 These apps are for **educational purposes** only. Please use this code responsibly and only use these apps on your own equipment.  
 本模块和软件只能用作教育和学习用途，一切使用责任请自负，请仅在您拥有的设备上使用
